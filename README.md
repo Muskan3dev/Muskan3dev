@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript,Node.js,Express and MongoDB**
 
-- ⚡ Fun fact **The first computer bug was actually a real bug! In 1947, a moth got trapped in a relay causing issues in the Harvard Mark II computer. The term 'debugging' came from the process of removing this bug, which is now famously at the Smithsonian Museum."**
+- ⚡ Fun fact **The first computer bug was actually a real bug! In 1947, a moth got trapped in a relay causing issues in the Harvard Mark II computer. The term 'debugging' came from the process of removing this bug, which is now famously at the Smithsonian Museum.**
 
 <h3 align="left">Connect with me at:
 </h3> 
